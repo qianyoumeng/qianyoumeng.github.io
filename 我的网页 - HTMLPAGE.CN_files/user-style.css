@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.c9015 {
+    line-height: 1.7;
+}
+
+.c9007 {
+    font-size: 14px;
+    line-height: 1.7;
+}
+
+.c10173 {
+    background-color: rgba(0,0,0,0.55);
+}
+
+.c10060 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/html-template/one-page/images/page/main.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.c10283 {
+    max-width: 700px;
+    font-size: 40px;
+}
+
+.c10302 {
+    max-width: 800px;
+}
+
+.c10321 {
+    font-size: 16px;
+}
+
+.c10370 {
+    max-width: 1000px;
+}
+
+.c11063 {
+    max-width: 900px;
+}
+
+.c12361 {
+    max-width: 900px;
+}
+
+.c12408 {
+    background: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/html-template/images/services/main-bg.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.c12939 {
+    position: relative;
+    top: -3px;
+}
+
+.c12914 {
+    max-width: 900px;
+}
+
+.c12982 {
+    background-image: url('https://template-1253409072.cos.ap-guangzhou.myqcloud.com/html-template/one-page/images/page/testimonials.jpg');
+    padding: 150px 0;
+}
+
+.c14402 {
+    line-height: 1.7;
+}
+
+.c14483 {
+    line-height: 1.7;
+}
+
+.c14394 {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.c14360 {
+    background-color: #F5F5F5;
+}
+
+.c14981 {
+    display: block;
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+.c14738 {
+    max-width: 850px;
+}
